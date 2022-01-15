@@ -16,3 +16,8 @@ git init
 ```
 git status
 ```
+##### Clonar um diretório no modo ssh:
+```
+git clone git@github.com:NomeUsuario/NomeRepositorio.git
+```
+
