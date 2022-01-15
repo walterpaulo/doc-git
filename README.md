@@ -6,5 +6,13 @@ Git é um sistema de controle de versão distribuído gratuito e de código aber
 
 
 ### Comandos:
-Iniciar o versionamente de códigos;
-* git init
+#### Iniciar o versionamente de códigos:
+
+##### Iniciar o git:
+```
+git init
+```
+##### Verificar estado:
+```
+git status
+```
